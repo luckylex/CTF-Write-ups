@@ -93,8 +93,8 @@ Concrètement, pour désassembler le binaire, Radare2 (https://www.megabeets.net
 ```
 permet de voir que: 
 
-https://github.com/luckylex/screeshoot/blob/master/r2-1.png 
-https://github.com/luckylex/screeshoot/blob/master/r2-2.png
+![pic1](https://github.com/luckylex/screeshoot/blob/master/r2-1.png) 
+![pic2](https://github.com/luckylex/screeshoot/blob/master/r2-2.png)
 
 
 <br />
